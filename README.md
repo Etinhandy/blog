@@ -1,2 +1,1 @@
 # blog
-kodecamp internship
